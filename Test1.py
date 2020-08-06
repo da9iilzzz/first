@@ -1,1 +1,3 @@
-print('что то')
+print(len('skdjlsd'))
+
+
